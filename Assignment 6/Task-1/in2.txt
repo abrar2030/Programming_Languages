@@ -1,0 +1,5 @@
+Hello there
+this is a text file contains some words!
+this is the third line
+this is the fourth line
+this is the fifth line
